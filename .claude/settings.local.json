@@ -7,7 +7,18 @@
       "WebFetch(domain:doi.org)",
       "Bash(git add:*)",
       "Bash(git commit:*)",
-      "Bash(git push:*)"
+      "Bash(git push:*)",
+      "Bash(pip install:*)",
+      "Bash(python:*)",
+      "Bash(del extract_pptx_references.py analyze_references.py)",
+      "Bash(dir:*)",
+      "Bash(findstr:*)",
+      "Bash(git reset:*)",
+      "Bash(git rm:*)",
+      "Bash(grep:*)",
+      "Read(//d/Personal/Project/RiskPrediction-3H/**)",
+      "Read(//d/Personal/Project/RiskPrediction-3H/data/raw/**)",
+      "Bash(git restore:*)"
     ],
     "deny": [],
     "ask": []
